@@ -1,7 +1,7 @@
 # ASP.NET_VSCode
 
-### This is an identical copy of the ASP.NET MVC BestBuy Application on Visual Studio Community. 
-### The following steps are the beginning steps to create a fresh asp.net mvc app in vs_code using the built in terminal
+- This is an identical copy of the ASP.NET MVC BestBuy Application on Visual Studio Community. 
+- The following steps are the beginning steps to create a fresh asp.net mvc app in vs_code using the built in terminal
 
 1. Open Visual Studio Code. Now you can open the terminal using Ctrl + ` 
 
